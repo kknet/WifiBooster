@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WIFI神器</string>
+    <string name="action_my_point">我的积分</string>
+    <string name="action_settings">设置</string>
+    <string name="title_section1">信号增强</string>
+    <string name="title_section2">硬件加速</string>
+    <string name="title_section3">系统清理</string>
+
+</resources>
